@@ -1,0 +1,27 @@
+ body, p {
+    margin: 0px;
+    background-color: light-gin: 0px;
+ }
+ 
+header {
+    width: 1000px;
+    height: 600px;
+    margin-top: 100px;
+    background-color: yellow;
+    padding: 600px;
+}
+
+div {
+    background-color: gray;
+    width: 50%;
+    height: 50%;
+    padding: 30px;
+}
+
+p {
+    margin: 1em;
+    
+}
+
+
+

@@ -1,0 +1,22 @@
+h1, header p, h2 {
+    text-align: center;
+    
+}
+
+header h2 {
+    text-align: right;
+}
+
+p {
+    text-align: justify;
+    font-style: italic;
+}
+
+.danger {
+    font-weight: bold;
+    font-style: normal;
+}
+
+p span {
+    text-decoration: line-through;
+}

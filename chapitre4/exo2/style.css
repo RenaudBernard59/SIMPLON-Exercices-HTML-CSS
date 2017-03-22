@@ -1,0 +1,44 @@
+header {
+    background-color: rgba(0,50,50,0.2);
+
+    padding: 30px;
+    
+}
+
+h1 {
+    text-align: center;
+    display: inline-block;
+}
+
+header img {
+    width: 200px;
+    height: 200px;
+    align-content: left;
+    display: inline-block;
+
+}
+
+article {
+    background-color: rgba(0,50,50,0.02);
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 50px;
+}
+
+article img {
+    width: 200px;
+    height: 200px;
+    vertical-align: top;
+    float: right;
+    vertical-align: top;
+}
+
+section img
+{
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 200x;
+    height: 200px;
+    
+}

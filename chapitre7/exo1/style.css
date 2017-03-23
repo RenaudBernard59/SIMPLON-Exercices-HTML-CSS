@@ -1,0 +1,33 @@
+.first {
+    width: 1000px;
+    height: 400px;
+    background-color: Aquamarine ;
+    font-size: 32px;
+}
+
+.second {
+    width: 500px;
+    height: 200px;
+     background-color:  DarkSalmon ;
+     font-size: 20px;
+}
+
+
+article {
+ width: 50%;
+ background-color: grey;
+   font-size: 2em;
+}
+
+.second article p {
+   font-size: 1rem;
+
+}
+
+
+
+
+
+
+
+

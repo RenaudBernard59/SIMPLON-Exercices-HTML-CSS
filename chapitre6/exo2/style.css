@@ -1,0 +1,24 @@
+header {
+ background-image: url(rbc-background01.jpg);
+    border-bottom: black solid 2px;
+}
+
+h1 {
+ text-shadow: 2px 2px 4px black;
+    
+    
+}
+
+article {
+    background: yellow;
+    border: violet solid 10px;
+    box-shadow: 10px 10px 5px green;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    margin: 25px;
+}
+
+
+
+

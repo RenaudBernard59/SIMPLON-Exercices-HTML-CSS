@@ -1,0 +1,33 @@
+.entete {
+    background-color: RebeccaPurple ;
+    text-align: center;
+    color: PaleGoldenRod ;
+    height: 100px;
+    margin: 20px;
+}
+
+article {
+    width: 300px;
+    margin: 30px;
+    display: inline-block;
+    
+}
+
+.machin1 {
+    background-color: BlueViolet ;
+}
+
+.machin1 h1 {
+    color: white;
+    
+}
+
+
+.machin2 {
+    background-color: LightPink ;
+}
+
+.machin2 h1 {
+    color: black;
+    
+}

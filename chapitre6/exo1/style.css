@@ -1,0 +1,46 @@
+* {
+    background-image: rbc-background01.jpg;
+    
+}
+
+h2 {
+    font-variant-caps: small-caps;
+    
+}
+
+h2 p {
+    border: 5px solid black;
+    border-radius: 10px;
+}
+
+div p {
+    font-size: 50px;
+    font-kerning: 2px;
+    
+}
+
+
+
+form input {
+    border: red;
+    background-color: grey;
+    box-shadow:  5px 5px 5px red;
+    color: blue;
+    
+}
+
+p a {
+    color: red;
+    bacground-color: black;
+    border: 3px green dashed;
+    
+}
+
+
+ul li {
+    margin-top: 10px;
+    box-shadow:  5px 5px 5px black ;
+}
+
+
+

@@ -1,0 +1,43 @@
+p {
+    background-color: black;
+    color: white;
+}
+
+section {
+    color: white;
+    background-color: CornflowerBlue;
+    height: 200px;
+}
+
+
+section p {
+    background-color: CornflowerBlue;
+}
+
+article {
+    background-color: MediumSeaGreen;
+    width: 500px;
+    height: 300px;
+}
+
+
+
+
+article section {
+    background-color: DarkSeaGreen ;
+    width: 250px;
+    height: 150px;
+}
+
+article section p {
+    background-color: DarkGreen  ;
+    
+}
+
+
+
+
+
+
+
+
